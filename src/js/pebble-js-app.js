@@ -3,7 +3,7 @@ var symbol = localStorage.getItem("symbol");
 
 // We use the fake "PBL" symbol as default
 if (!symbol) {
-  symbol = "PBL";
+  symbol = "AMD";
 }
 
 // Fetch stock data for a given stock symbol (NYSE or NASDAQ only) from markitondemand.com

@@ -6,12 +6,12 @@
         "price": 1,
         "fetch": 2
     },
-    "longName": "Quotes",
+    "longName": "JSKit Quotes",
     "versionCode": 1,
     "capabilities": [
         ""
     ],
-    "shortName": "Quotes",
+    "shortName": "JSKit Quotes",
     "companyName": "Pebble Financial Corp",
     "watchapp": {
         "watchface": false
